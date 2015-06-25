@@ -1,10 +1,11 @@
 
-public class Animals {
+ abstract class Animals {
 	
-	public String reaction (String say) {
-		String sounds = "Звук " + say;
-		return sounds;
+	void voice() {
+		
 	}
+ }
+  
 	
-
-}
+	 
+	
